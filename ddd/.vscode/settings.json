@@ -1,0 +1,8 @@
+{
+    "jestrunner.jestCommand": "npm test",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "jestrunner.runInExternalNativeTerminal": false
+}
